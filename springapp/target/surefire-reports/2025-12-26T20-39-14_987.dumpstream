@@ -1,0 +1,4 @@
+# Created at 2025-12-26T20:39:23.877
+Boot Manifest-JAR contains absolute paths in classpath 'F:\2nd yr\sem 4\Backend frameworks\656fc1d2-e25c-4a0d-976f-575f58d91661-6c2f5dc9-087c-452e-8a8a-b891463d5b22-Fitness-Course-Management-System-vikram1thegod\springapp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
